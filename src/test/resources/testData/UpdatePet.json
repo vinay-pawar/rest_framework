@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1000001,
+    "category": {
+      "id": 101,
+      "name": "Dog"
+    },
+    "name": "Rocky",
+    "photoUrls": [
+      "https://www.dogtime.com/assets/uploads/2011/01/file_23102_chihuahua-460x290.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "dog"
+      },
+      {
+        "id": 2,
+        "name": "small dog"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1000002,
+    "category": {
+      "id": 101,
+      "name": "Dog"
+    },
+    "name": "shiro",
+    "photoUrls": [
+      "https://www.dogtime.com/assets/uploads/2011/01/file_23136_bichon-frise-460x290.jpg",
+      "https://dogtime.com/assets/uploads/gallery/bichon-frise-dog-breed-pictures/1-sitting.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "dog"
+      },
+      {
+        "id": 3,
+        "name": "Bichon Frise"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 1000003,
+    "category": {
+      "id": 102,
+      "name": "Cat"
+    },
+    "name": "mewoth",
+    "photoUrls": [
+      "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_480/public/Birman_body_6.jpg?itok=Me_xJBY1"
+    ],
+    "tags": [
+      {
+        "id": 4,
+        "name": "cat"
+      },
+      {
+        "id": 5,
+        "name": "Birman"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1000004,
+    "category": {
+      "id": 102,
+      "name": "Cat"
+    },
+    "name": "supotto",
+    "photoUrls": [
+      "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_480/public/TurkishVan_body_7.jpg?itok=Mfsd_V0W",
+      "https://www.purina.com/sites/default/files/styles/kraken_generic_max_width_480/public/Birman_body_6.jpg?itok=Me_xJBY1"
+    ],
+    "tags": [
+      {
+        "id": 4,
+        "name": "cat"
+      },
+      {
+        "id": 6,
+        "name": "Turkish Van"
+      },
+      {
+        "id": 7,
+        "name": "Kitty"
+      }
+    ],
+    "status": "sold"
+  }
+]

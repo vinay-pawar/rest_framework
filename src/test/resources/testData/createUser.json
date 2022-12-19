@@ -1,0 +1,32 @@
+[
+  {
+    "id": 141220221,
+    "username": "mtuser1",
+    "firstName": "MT",
+    "lastName": "user1",
+    "email": "mtuser1@tmail.com",
+    "password": "testpass",
+    "phone": "8888888881",
+    "userStatus": 1
+  },
+  {
+    "id": 141220222,
+    "username": "mtuser2",
+    "firstName": "MT",
+    "lastName": "user2",
+    "email": "mtuser2@tmail.com",
+    "password": "testpass",
+    "phone": "8888888882",
+    "userStatus": 1
+  },
+  {
+    "id": 141220223,
+    "username": "mtuser3",
+    "firstName": "MT",
+    "lastName": "user3",
+    "email": "mtuser3@tmail.com",
+    "password": "testpass",
+    "phone": "8888888883",
+    "userStatus": 1
+  }
+]
